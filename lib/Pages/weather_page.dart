@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:kumori/services/weather_service.dart';
-
 import '../models/weather_model.dart';
 class WeatherPage extends StatefulWidget {
   const WeatherPage({super.key});
